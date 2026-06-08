@@ -6,6 +6,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 export default defineUserConfig({
   lang: 'zh-CN',
   title: '软考字典',
+  base: '/rk/',
   bundler: viteBundler(),
   plugins: [
     searchPlugin({
@@ -22,7 +23,7 @@ export default defineUserConfig({
     }),
   ],
   theme: defaultTheme({
-    logo: '/logo.png',
+    logo: 'logo.png',
     // 右侧页面导航配置
     outline: {
       level: [2, 3],
