@@ -683,6 +683,535 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
+    "title": "2.1 信息技术概述",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "发展历程",
+        "slug": "发展历程",
+        "link": "#发展历程",
+        "children": [
+          {
+            "level": 3,
+            "title": "第一代：电子管计算机（1946-1958）",
+            "slug": "第一代-电子管计算机-1946-1958",
+            "link": "#第一代-电子管计算机-1946-1958",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "第二代：晶体管计算机（1959-1964）",
+            "slug": "第二代-晶体管计算机-1959-1964",
+            "link": "#第二代-晶体管计算机-1959-1964",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "第三代：集成电路计算机（1965-1970）",
+            "slug": "第三代-集成电路计算机-1965-1970",
+            "link": "#第三代-集成电路计算机-1965-1970",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "第四代：大规模集成电路计算机（1971-至今）",
+            "slug": "第四代-大规模集成电路计算机-1971-至今",
+            "link": "#第四代-大规模集成电路计算机-1971-至今",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "第五代：人工智能计算机（正在发展）",
+            "slug": "第五代-人工智能计算机-正在发展",
+            "link": "#第五代-人工智能计算机-正在发展",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "核心技术",
+        "slug": "核心技术",
+        "link": "#核心技术",
+        "children": [
+          {
+            "level": 3,
+            "title": "计算机技术",
+            "slug": "计算机技术",
+            "link": "#计算机技术",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "通信技术",
+            "slug": "通信技术",
+            "link": "#通信技术",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "网络技术",
+            "slug": "网络技术",
+            "link": "#网络技术",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "关键考点",
+        "slug": "关键考点",
+        "link": "#关键考点",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "记忆口诀",
+        "slug": "记忆口诀",
+        "link": "#记忆口诀",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "典型例题",
+        "slug": "典型例题",
+        "link": "#典型例题",
+        "children": []
+      }
+    ],
+    "path": "/%E7%AC%AC02%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95/2.1%20%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%A6%82%E8%BF%B0.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "2.2 新技术发展",
+    "headers": [
+      {
+        "level": 2,
+        "title": "云计算",
+        "slug": "云计算",
+        "link": "#云计算",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义",
+            "link": "#定义",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "服务模式",
+            "slug": "服务模式",
+            "link": "#服务模式",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "特点",
+            "slug": "特点",
+            "link": "#特点",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "大数据",
+        "slug": "大数据",
+        "link": "#大数据",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义-1",
+            "link": "#定义-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "特征（5V）",
+            "slug": "特征-5v",
+            "link": "#特征-5v",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "技术体系",
+            "slug": "技术体系",
+            "link": "#技术体系",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "人工智能",
+        "slug": "人工智能",
+        "link": "#人工智能",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义-2",
+            "link": "#定义-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "核心技术",
+            "slug": "核心技术",
+            "link": "#核心技术",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "应用领域",
+            "slug": "应用领域",
+            "link": "#应用领域",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "物联网",
+        "slug": "物联网",
+        "link": "#物联网",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义-3",
+            "link": "#定义-3",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "架构",
+            "slug": "架构",
+            "link": "#架构",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "区块链",
+        "slug": "区块链",
+        "link": "#区块链",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义-4",
+            "link": "#定义-4",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "特点",
+            "slug": "特点-1",
+            "link": "#特点-1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "关键考点",
+        "slug": "关键考点",
+        "link": "#关键考点",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "记忆口诀",
+        "slug": "记忆口诀",
+        "link": "#记忆口诀",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "典型例题",
+        "slug": "典型例题",
+        "link": "#典型例题",
+        "children": []
+      }
+    ],
+    "path": "/%E7%AC%AC02%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95/2.2%20%E6%96%B0%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "2.3 信息化标准",
+    "headers": [
+      {
+        "level": 2,
+        "title": "标准化的意义",
+        "slug": "标准化的意义",
+        "link": "#标准化的意义",
+        "children": [
+          {
+            "level": 3,
+            "title": "重要性",
+            "slug": "重要性",
+            "link": "#重要性",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "标准的分类",
+            "slug": "标准的分类",
+            "link": "#标准的分类",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "主要国际标准",
+        "slug": "主要国际标准",
+        "link": "#主要国际标准",
+        "children": [
+          {
+            "level": 3,
+            "title": "ISO/IEC 27001",
+            "slug": "iso-iec-27001",
+            "link": "#iso-iec-27001",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "IEEE 802系列",
+            "slug": "ieee-802系列",
+            "link": "#ieee-802系列",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "SQL标准",
+            "slug": "sql标准",
+            "link": "#sql标准",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "TCP/IP协议族",
+            "slug": "tcp-ip协议族",
+            "link": "#tcp-ip协议族",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "国内标准",
+        "slug": "国内标准",
+        "link": "#国内标准",
+        "children": [
+          {
+            "level": 3,
+            "title": "GB/T系列",
+            "slug": "gb-t系列",
+            "link": "#gb-t系列",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "行业标准",
+            "slug": "行业标准",
+            "link": "#行业标准",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "标准制定组织",
+        "slug": "标准制定组织",
+        "link": "#标准制定组织",
+        "children": [
+          {
+            "level": 3,
+            "title": "国际组织",
+            "slug": "国际组织",
+            "link": "#国际组织",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "国内组织",
+            "slug": "国内组织",
+            "link": "#国内组织",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "关键考点",
+        "slug": "关键考点",
+        "link": "#关键考点",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "记忆口诀",
+        "slug": "记忆口诀",
+        "link": "#记忆口诀",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "典型例题",
+        "slug": "典型例题",
+        "link": "#典型例题",
+        "children": []
+      }
+    ],
+    "path": "/%E7%AC%AC02%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95/2.3%20%E4%BF%A1%E6%81%AF%E5%8C%96%E6%A0%87%E5%87%86.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "第02章 信息技术发展",
+    "headers": [
+      {
+        "level": 2,
+        "title": "本章概览",
+        "slug": "本章概览",
+        "link": "#本章概览",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2.1 信息技术概述",
+        "slug": "_2-1-信息技术概述",
+        "link": "#_2-1-信息技术概述",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义",
+            "link": "#定义",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "发展阶段",
+            "slug": "发展阶段",
+            "link": "#发展阶段",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "关键考点",
+            "slug": "关键考点",
+            "link": "#关键考点",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "记忆口诀",
+            "slug": "记忆口诀",
+            "link": "#记忆口诀",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2.2 新技术发展",
+        "slug": "_2-2-新技术发展",
+        "link": "#_2-2-新技术发展",
+        "children": [
+          {
+            "level": 3,
+            "title": "云计算",
+            "slug": "云计算",
+            "link": "#云计算",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "大数据",
+            "slug": "大数据",
+            "link": "#大数据",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "人工智能",
+            "slug": "人工智能",
+            "link": "#人工智能",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "关键考点",
+            "slug": "关键考点-1",
+            "link": "#关键考点-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "记忆口诀",
+            "slug": "记忆口诀-1",
+            "link": "#记忆口诀-1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2.3 信息化标准",
+        "slug": "_2-3-信息化标准",
+        "link": "#_2-3-信息化标准",
+        "children": [
+          {
+            "level": 3,
+            "title": "标准化的意义",
+            "slug": "标准化的意义",
+            "link": "#标准化的意义",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "主要标准",
+            "slug": "主要标准",
+            "link": "#主要标准",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "关键考点",
+            "slug": "关键考点-2",
+            "link": "#关键考点-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "记忆口诀",
+            "slug": "记忆口诀-2",
+            "link": "#记忆口诀-2",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/%E7%AC%AC02%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "1.1 信息与信息化",
     "headers": [
       {
@@ -1241,535 +1770,6 @@ export const SEARCH_INDEX = [
       }
     ],
     "path": "/%E7%AC%AC01%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E5%8C%96%E5%8F%91%E5%B1%95/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "2.1 信息技术概述",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "发展历程",
-        "slug": "发展历程",
-        "link": "#发展历程",
-        "children": [
-          {
-            "level": 3,
-            "title": "第一代：电子管计算机（1946-1958）",
-            "slug": "第一代-电子管计算机-1946-1958",
-            "link": "#第一代-电子管计算机-1946-1958",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "第二代：晶体管计算机（1959-1964）",
-            "slug": "第二代-晶体管计算机-1959-1964",
-            "link": "#第二代-晶体管计算机-1959-1964",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "第三代：集成电路计算机（1965-1970）",
-            "slug": "第三代-集成电路计算机-1965-1970",
-            "link": "#第三代-集成电路计算机-1965-1970",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "第四代：大规模集成电路计算机（1971-至今）",
-            "slug": "第四代-大规模集成电路计算机-1971-至今",
-            "link": "#第四代-大规模集成电路计算机-1971-至今",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "第五代：人工智能计算机（正在发展）",
-            "slug": "第五代-人工智能计算机-正在发展",
-            "link": "#第五代-人工智能计算机-正在发展",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "核心技术",
-        "slug": "核心技术",
-        "link": "#核心技术",
-        "children": [
-          {
-            "level": 3,
-            "title": "计算机技术",
-            "slug": "计算机技术",
-            "link": "#计算机技术",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "通信技术",
-            "slug": "通信技术",
-            "link": "#通信技术",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "网络技术",
-            "slug": "网络技术",
-            "link": "#网络技术",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "关键考点",
-        "slug": "关键考点",
-        "link": "#关键考点",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "记忆口诀",
-        "slug": "记忆口诀",
-        "link": "#记忆口诀",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "典型例题",
-        "slug": "典型例题",
-        "link": "#典型例题",
-        "children": []
-      }
-    ],
-    "path": "/%E7%AC%AC02%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95/2.1%20%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%A6%82%E8%BF%B0.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "2.2 新技术发展",
-    "headers": [
-      {
-        "level": 2,
-        "title": "云计算",
-        "slug": "云计算",
-        "link": "#云计算",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义",
-            "link": "#定义",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "服务模式",
-            "slug": "服务模式",
-            "link": "#服务模式",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "特点",
-            "slug": "特点",
-            "link": "#特点",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "大数据",
-        "slug": "大数据",
-        "link": "#大数据",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义-1",
-            "link": "#定义-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "特征（5V）",
-            "slug": "特征-5v",
-            "link": "#特征-5v",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "技术体系",
-            "slug": "技术体系",
-            "link": "#技术体系",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "人工智能",
-        "slug": "人工智能",
-        "link": "#人工智能",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义-2",
-            "link": "#定义-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "核心技术",
-            "slug": "核心技术",
-            "link": "#核心技术",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "应用领域",
-            "slug": "应用领域",
-            "link": "#应用领域",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "物联网",
-        "slug": "物联网",
-        "link": "#物联网",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义-3",
-            "link": "#定义-3",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "架构",
-            "slug": "架构",
-            "link": "#架构",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "区块链",
-        "slug": "区块链",
-        "link": "#区块链",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义-4",
-            "link": "#定义-4",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "特点",
-            "slug": "特点-1",
-            "link": "#特点-1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "关键考点",
-        "slug": "关键考点",
-        "link": "#关键考点",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "记忆口诀",
-        "slug": "记忆口诀",
-        "link": "#记忆口诀",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "典型例题",
-        "slug": "典型例题",
-        "link": "#典型例题",
-        "children": []
-      }
-    ],
-    "path": "/%E7%AC%AC02%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95/2.2%20%E6%96%B0%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "2.3 信息化标准",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标准化的意义",
-        "slug": "标准化的意义",
-        "link": "#标准化的意义",
-        "children": [
-          {
-            "level": 3,
-            "title": "重要性",
-            "slug": "重要性",
-            "link": "#重要性",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "标准的分类",
-            "slug": "标准的分类",
-            "link": "#标准的分类",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "主要国际标准",
-        "slug": "主要国际标准",
-        "link": "#主要国际标准",
-        "children": [
-          {
-            "level": 3,
-            "title": "ISO/IEC 27001",
-            "slug": "iso-iec-27001",
-            "link": "#iso-iec-27001",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "IEEE 802系列",
-            "slug": "ieee-802系列",
-            "link": "#ieee-802系列",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "SQL标准",
-            "slug": "sql标准",
-            "link": "#sql标准",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "TCP/IP协议族",
-            "slug": "tcp-ip协议族",
-            "link": "#tcp-ip协议族",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "国内标准",
-        "slug": "国内标准",
-        "link": "#国内标准",
-        "children": [
-          {
-            "level": 3,
-            "title": "GB/T系列",
-            "slug": "gb-t系列",
-            "link": "#gb-t系列",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "行业标准",
-            "slug": "行业标准",
-            "link": "#行业标准",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "标准制定组织",
-        "slug": "标准制定组织",
-        "link": "#标准制定组织",
-        "children": [
-          {
-            "level": 3,
-            "title": "国际组织",
-            "slug": "国际组织",
-            "link": "#国际组织",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "国内组织",
-            "slug": "国内组织",
-            "link": "#国内组织",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "关键考点",
-        "slug": "关键考点",
-        "link": "#关键考点",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "记忆口诀",
-        "slug": "记忆口诀",
-        "link": "#记忆口诀",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "典型例题",
-        "slug": "典型例题",
-        "link": "#典型例题",
-        "children": []
-      }
-    ],
-    "path": "/%E7%AC%AC02%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95/2.3%20%E4%BF%A1%E6%81%AF%E5%8C%96%E6%A0%87%E5%87%86.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "第02章 信息技术发展",
-    "headers": [
-      {
-        "level": 2,
-        "title": "本章概览",
-        "slug": "本章概览",
-        "link": "#本章概览",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "2.1 信息技术概述",
-        "slug": "_2-1-信息技术概述",
-        "link": "#_2-1-信息技术概述",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义",
-            "link": "#定义",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "发展阶段",
-            "slug": "发展阶段",
-            "link": "#发展阶段",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "关键考点",
-            "slug": "关键考点",
-            "link": "#关键考点",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "记忆口诀",
-            "slug": "记忆口诀",
-            "link": "#记忆口诀",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "2.2 新技术发展",
-        "slug": "_2-2-新技术发展",
-        "link": "#_2-2-新技术发展",
-        "children": [
-          {
-            "level": 3,
-            "title": "云计算",
-            "slug": "云计算",
-            "link": "#云计算",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "大数据",
-            "slug": "大数据",
-            "link": "#大数据",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "人工智能",
-            "slug": "人工智能",
-            "link": "#人工智能",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "关键考点",
-            "slug": "关键考点-1",
-            "link": "#关键考点-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "记忆口诀",
-            "slug": "记忆口诀-1",
-            "link": "#记忆口诀-1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "2.3 信息化标准",
-        "slug": "_2-3-信息化标准",
-        "link": "#_2-3-信息化标准",
-        "children": [
-          {
-            "level": 3,
-            "title": "标准化的意义",
-            "slug": "标准化的意义",
-            "link": "#标准化的意义",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "主要标准",
-            "slug": "主要标准",
-            "link": "#主要标准",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "关键考点",
-            "slug": "关键考点-2",
-            "link": "#关键考点-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "记忆口诀",
-            "slug": "记忆口诀-2",
-            "link": "#记忆口诀-2",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/%E7%AC%AC02%E7%AB%A0%20%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -6682,6 +6682,691 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
+    "title": "12.1 质量规划",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "质量规划的输入",
+        "slug": "质量规划的输入",
+        "link": "#质量规划的输入",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 项目章程",
+            "slug": "_1-项目章程",
+            "link": "#_1-项目章程",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 项目范围说明书",
+            "slug": "_2-项目范围说明书",
+            "link": "#_2-项目范围说明书",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 组织过程资产",
+            "slug": "_3-组织过程资产",
+            "link": "#_3-组织过程资产",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 事业环境因素",
+            "slug": "_4-事业环境因素",
+            "link": "#_4-事业环境因素",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "质量规划的输出",
+        "slug": "质量规划的输出",
+        "link": "#质量规划的输出",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 质量管理计划",
+            "slug": "_1-质量管理计划",
+            "link": "#_1-质量管理计划",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 质量测量指标",
+            "slug": "_2-质量测量指标",
+            "link": "#_2-质量测量指标",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 质量核对单",
+            "slug": "_3-质量核对单",
+            "link": "#_3-质量核对单",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 过程改进计划",
+            "slug": "_4-过程改进计划",
+            "link": "#_4-过程改进计划",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "质量管理计划的内容",
+        "slug": "质量管理计划的内容",
+        "link": "#质量管理计划的内容",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 质量政策",
+            "slug": "_1-质量政策",
+            "link": "#_1-质量政策",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 质量目标",
+            "slug": "_2-质量目标",
+            "link": "#_2-质量目标",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 质量控制流程",
+            "slug": "_3-质量控制流程",
+            "link": "#_3-质量控制流程",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 质量保证活动",
+            "slug": "_4-质量保证活动",
+            "link": "#_4-质量保证活动",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "质量规划的方法",
+        "slug": "质量规划的方法",
+        "link": "#质量规划的方法",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 成本效益分析",
+            "slug": "_1-成本效益分析",
+            "link": "#_1-成本效益分析",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 基准比较",
+            "slug": "_2-基准比较",
+            "link": "#_2-基准比较",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 实验设计",
+            "slug": "_3-实验设计",
+            "link": "#_3-实验设计",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "质量规划的重要性",
+        "slug": "质量规划的重要性",
+        "link": "#质量规划的重要性",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 明确质量标准",
+            "slug": "_1-明确质量标准",
+            "link": "#_1-明确质量标准",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 预防质量问题",
+            "slug": "_2-预防质量问题",
+            "link": "#_2-预防质量问题",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 提高客户满意度",
+            "slug": "_3-提高客户满意度",
+            "link": "#_3-提高客户满意度",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "关键考点",
+        "slug": "关键考点",
+        "link": "#关键考点",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "记忆口诀",
+        "slug": "记忆口诀",
+        "link": "#记忆口诀",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "典型例题",
+        "slug": "典型例题",
+        "link": "#典型例题",
+        "children": []
+      }
+    ],
+    "path": "/%E7%AC%AC12%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86/12.1%20%E8%B4%A8%E9%87%8F%E8%A7%84%E5%88%92.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "12.2 质量保证",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "质量保证的目标",
+        "slug": "质量保证的目标",
+        "link": "#质量保证的目标",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 确保过程合规",
+            "slug": "_1-确保过程合规",
+            "link": "#_1-确保过程合规",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 提高过程效率",
+            "slug": "_2-提高过程效率",
+            "link": "#_2-提高过程效率",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 增强质量信心",
+            "slug": "_3-增强质量信心",
+            "link": "#_3-增强质量信心",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "质量保证的活动",
+        "slug": "质量保证的活动",
+        "link": "#质量保证的活动",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 质量审计",
+            "slug": "_1-质量审计",
+            "link": "#_1-质量审计",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 过程改进",
+            "slug": "_2-过程改进",
+            "link": "#_2-过程改进",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 质量培训",
+            "slug": "_3-质量培训",
+            "link": "#_3-质量培训",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 质量体系评估",
+            "slug": "_4-质量体系评估",
+            "link": "#_4-质量体系评估",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "质量保证的方法",
+        "slug": "质量保证的方法",
+        "link": "#质量保证的方法",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 计划评审技术（PERT）",
+            "slug": "_1-计划评审技术-pert",
+            "link": "#_1-计划评审技术-pert",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 质量功能展开（QFD）",
+            "slug": "_2-质量功能展开-qfd",
+            "link": "#_2-质量功能展开-qfd",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 全面质量管理（TQM）",
+            "slug": "_3-全面质量管理-tqm",
+            "link": "#_3-全面质量管理-tqm",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "质量保证的重要性",
+        "slug": "质量保证的重要性",
+        "link": "#质量保证的重要性",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 预防质量问题",
+            "slug": "_1-预防质量问题",
+            "link": "#_1-预防质量问题",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 降低成本",
+            "slug": "_2-降低成本",
+            "link": "#_2-降低成本",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 提高客户满意度",
+            "slug": "_3-提高客户满意度",
+            "link": "#_3-提高客户满意度",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "关键考点",
+        "slug": "关键考点",
+        "link": "#关键考点",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "记忆口诀",
+        "slug": "记忆口诀",
+        "link": "#记忆口诀",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "典型例题",
+        "slug": "典型例题",
+        "link": "#典型例题",
+        "children": []
+      }
+    ],
+    "path": "/%E7%AC%AC12%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86/12.2%20%E8%B4%A8%E9%87%8F%E4%BF%9D%E8%AF%81.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "12.3 质量控制",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "质量控制的目标",
+        "slug": "质量控制的目标",
+        "link": "#质量控制的目标",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 确保产品符合标准",
+            "slug": "_1-确保产品符合标准",
+            "link": "#_1-确保产品符合标准",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 识别质量问题",
+            "slug": "_2-识别质量问题",
+            "link": "#_2-识别质量问题",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 纠正质量问题",
+            "slug": "_3-纠正质量问题",
+            "link": "#_3-纠正质量问题",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 持续改进质量",
+            "slug": "_4-持续改进质量",
+            "link": "#_4-持续改进质量",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "质量控制工具",
+        "slug": "质量控制工具",
+        "link": "#质量控制工具",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 因果图（鱼骨图）",
+            "slug": "_1-因果图-鱼骨图",
+            "link": "#_1-因果图-鱼骨图",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 控制图",
+            "slug": "_2-控制图",
+            "link": "#_2-控制图",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 直方图",
+            "slug": "_3-直方图",
+            "link": "#_3-直方图",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 帕累托图",
+            "slug": "_4-帕累托图",
+            "link": "#_4-帕累托图",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "5. 散点图",
+            "slug": "_5-散点图",
+            "link": "#_5-散点图",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "6. 流程图",
+            "slug": "_6-流程图",
+            "link": "#_6-流程图",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "7. 检查清单",
+            "slug": "_7-检查清单",
+            "link": "#_7-检查清单",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "质量控制流程",
+        "slug": "质量控制流程",
+        "link": "#质量控制流程",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 设定质量标准",
+            "slug": "_1-设定质量标准",
+            "link": "#_1-设定质量标准",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 实施质量检查",
+            "slug": "_2-实施质量检查",
+            "link": "#_2-实施质量检查",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 分析检查结果",
+            "slug": "_3-分析检查结果",
+            "link": "#_3-分析检查结果",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 采取纠正措施",
+            "slug": "_4-采取纠正措施",
+            "link": "#_4-采取纠正措施",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "5. 验证纠正效果",
+            "slug": "_5-验证纠正效果",
+            "link": "#_5-验证纠正效果",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "质量控制的重要性",
+        "slug": "质量控制的重要性",
+        "link": "#质量控制的重要性",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 确保产品质量",
+            "slug": "_1-确保产品质量",
+            "link": "#_1-确保产品质量",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 减少成本损失",
+            "slug": "_2-减少成本损失",
+            "link": "#_2-减少成本损失",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 提高项目成功率",
+            "slug": "_3-提高项目成功率",
+            "link": "#_3-提高项目成功率",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "关键考点",
+        "slug": "关键考点",
+        "link": "#关键考点",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "记忆口诀",
+        "slug": "记忆口诀",
+        "link": "#记忆口诀",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "典型例题",
+        "slug": "典型例题",
+        "link": "#典型例题",
+        "children": []
+      }
+    ],
+    "path": "/%E7%AC%AC12%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86/12.3%20%E8%B4%A8%E9%87%8F%E6%8E%A7%E5%88%B6.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "第12章 项目质量管理",
+    "headers": [
+      {
+        "level": 2,
+        "title": "本章概览",
+        "slug": "本章概览",
+        "link": "#本章概览",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "12.1 质量规划",
+        "slug": "_12-1-质量规划",
+        "link": "#_12-1-质量规划",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义",
+            "link": "#定义",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "主要内容",
+            "slug": "主要内容",
+            "link": "#主要内容",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "关键考点",
+            "slug": "关键考点",
+            "link": "#关键考点",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "记忆口诀",
+            "slug": "记忆口诀",
+            "link": "#记忆口诀",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "12.2 质量保证",
+        "slug": "_12-2-质量保证",
+        "link": "#_12-2-质量保证",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义-1",
+            "link": "#定义-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "主要活动",
+            "slug": "主要活动",
+            "link": "#主要活动",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "关键考点",
+            "slug": "关键考点-1",
+            "link": "#关键考点-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "记忆口诀",
+            "slug": "记忆口诀-1",
+            "link": "#记忆口诀-1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "12.3 质量控制",
+        "slug": "_12-3-质量控制",
+        "link": "#_12-3-质量控制",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义-2",
+            "link": "#定义-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "控制工具",
+            "slug": "控制工具",
+            "link": "#控制工具",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "关键考点",
+            "slug": "关键考点-2",
+            "link": "#关键考点-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "记忆口诀",
+            "slug": "记忆口诀-2",
+            "link": "#记忆口诀-2",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/%E7%AC%AC12%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "11.1 成本估算",
     "headers": [
       {
@@ -7411,691 +8096,6 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "12.1 质量规划",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "质量规划的输入",
-        "slug": "质量规划的输入",
-        "link": "#质量规划的输入",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 项目章程",
-            "slug": "_1-项目章程",
-            "link": "#_1-项目章程",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 项目范围说明书",
-            "slug": "_2-项目范围说明书",
-            "link": "#_2-项目范围说明书",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 组织过程资产",
-            "slug": "_3-组织过程资产",
-            "link": "#_3-组织过程资产",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 事业环境因素",
-            "slug": "_4-事业环境因素",
-            "link": "#_4-事业环境因素",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "质量规划的输出",
-        "slug": "质量规划的输出",
-        "link": "#质量规划的输出",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 质量管理计划",
-            "slug": "_1-质量管理计划",
-            "link": "#_1-质量管理计划",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 质量测量指标",
-            "slug": "_2-质量测量指标",
-            "link": "#_2-质量测量指标",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 质量核对单",
-            "slug": "_3-质量核对单",
-            "link": "#_3-质量核对单",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 过程改进计划",
-            "slug": "_4-过程改进计划",
-            "link": "#_4-过程改进计划",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "质量管理计划的内容",
-        "slug": "质量管理计划的内容",
-        "link": "#质量管理计划的内容",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 质量政策",
-            "slug": "_1-质量政策",
-            "link": "#_1-质量政策",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 质量目标",
-            "slug": "_2-质量目标",
-            "link": "#_2-质量目标",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 质量控制流程",
-            "slug": "_3-质量控制流程",
-            "link": "#_3-质量控制流程",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 质量保证活动",
-            "slug": "_4-质量保证活动",
-            "link": "#_4-质量保证活动",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "质量规划的方法",
-        "slug": "质量规划的方法",
-        "link": "#质量规划的方法",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 成本效益分析",
-            "slug": "_1-成本效益分析",
-            "link": "#_1-成本效益分析",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 基准比较",
-            "slug": "_2-基准比较",
-            "link": "#_2-基准比较",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 实验设计",
-            "slug": "_3-实验设计",
-            "link": "#_3-实验设计",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "质量规划的重要性",
-        "slug": "质量规划的重要性",
-        "link": "#质量规划的重要性",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 明确质量标准",
-            "slug": "_1-明确质量标准",
-            "link": "#_1-明确质量标准",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 预防质量问题",
-            "slug": "_2-预防质量问题",
-            "link": "#_2-预防质量问题",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 提高客户满意度",
-            "slug": "_3-提高客户满意度",
-            "link": "#_3-提高客户满意度",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "关键考点",
-        "slug": "关键考点",
-        "link": "#关键考点",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "记忆口诀",
-        "slug": "记忆口诀",
-        "link": "#记忆口诀",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "典型例题",
-        "slug": "典型例题",
-        "link": "#典型例题",
-        "children": []
-      }
-    ],
-    "path": "/%E7%AC%AC12%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86/12.1%20%E8%B4%A8%E9%87%8F%E8%A7%84%E5%88%92.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "12.2 质量保证",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "质量保证的目标",
-        "slug": "质量保证的目标",
-        "link": "#质量保证的目标",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 确保过程合规",
-            "slug": "_1-确保过程合规",
-            "link": "#_1-确保过程合规",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 提高过程效率",
-            "slug": "_2-提高过程效率",
-            "link": "#_2-提高过程效率",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 增强质量信心",
-            "slug": "_3-增强质量信心",
-            "link": "#_3-增强质量信心",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "质量保证的活动",
-        "slug": "质量保证的活动",
-        "link": "#质量保证的活动",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 质量审计",
-            "slug": "_1-质量审计",
-            "link": "#_1-质量审计",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 过程改进",
-            "slug": "_2-过程改进",
-            "link": "#_2-过程改进",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 质量培训",
-            "slug": "_3-质量培训",
-            "link": "#_3-质量培训",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 质量体系评估",
-            "slug": "_4-质量体系评估",
-            "link": "#_4-质量体系评估",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "质量保证的方法",
-        "slug": "质量保证的方法",
-        "link": "#质量保证的方法",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 计划评审技术（PERT）",
-            "slug": "_1-计划评审技术-pert",
-            "link": "#_1-计划评审技术-pert",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 质量功能展开（QFD）",
-            "slug": "_2-质量功能展开-qfd",
-            "link": "#_2-质量功能展开-qfd",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 全面质量管理（TQM）",
-            "slug": "_3-全面质量管理-tqm",
-            "link": "#_3-全面质量管理-tqm",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "质量保证的重要性",
-        "slug": "质量保证的重要性",
-        "link": "#质量保证的重要性",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 预防质量问题",
-            "slug": "_1-预防质量问题",
-            "link": "#_1-预防质量问题",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 降低成本",
-            "slug": "_2-降低成本",
-            "link": "#_2-降低成本",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 提高客户满意度",
-            "slug": "_3-提高客户满意度",
-            "link": "#_3-提高客户满意度",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "关键考点",
-        "slug": "关键考点",
-        "link": "#关键考点",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "记忆口诀",
-        "slug": "记忆口诀",
-        "link": "#记忆口诀",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "典型例题",
-        "slug": "典型例题",
-        "link": "#典型例题",
-        "children": []
-      }
-    ],
-    "path": "/%E7%AC%AC12%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86/12.2%20%E8%B4%A8%E9%87%8F%E4%BF%9D%E8%AF%81.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "12.3 质量控制",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "质量控制的目标",
-        "slug": "质量控制的目标",
-        "link": "#质量控制的目标",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 确保产品符合标准",
-            "slug": "_1-确保产品符合标准",
-            "link": "#_1-确保产品符合标准",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 识别质量问题",
-            "slug": "_2-识别质量问题",
-            "link": "#_2-识别质量问题",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 纠正质量问题",
-            "slug": "_3-纠正质量问题",
-            "link": "#_3-纠正质量问题",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 持续改进质量",
-            "slug": "_4-持续改进质量",
-            "link": "#_4-持续改进质量",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "质量控制工具",
-        "slug": "质量控制工具",
-        "link": "#质量控制工具",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 因果图（鱼骨图）",
-            "slug": "_1-因果图-鱼骨图",
-            "link": "#_1-因果图-鱼骨图",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 控制图",
-            "slug": "_2-控制图",
-            "link": "#_2-控制图",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 直方图",
-            "slug": "_3-直方图",
-            "link": "#_3-直方图",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 帕累托图",
-            "slug": "_4-帕累托图",
-            "link": "#_4-帕累托图",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "5. 散点图",
-            "slug": "_5-散点图",
-            "link": "#_5-散点图",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "6. 流程图",
-            "slug": "_6-流程图",
-            "link": "#_6-流程图",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "7. 检查清单",
-            "slug": "_7-检查清单",
-            "link": "#_7-检查清单",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "质量控制流程",
-        "slug": "质量控制流程",
-        "link": "#质量控制流程",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 设定质量标准",
-            "slug": "_1-设定质量标准",
-            "link": "#_1-设定质量标准",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 实施质量检查",
-            "slug": "_2-实施质量检查",
-            "link": "#_2-实施质量检查",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 分析检查结果",
-            "slug": "_3-分析检查结果",
-            "link": "#_3-分析检查结果",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 采取纠正措施",
-            "slug": "_4-采取纠正措施",
-            "link": "#_4-采取纠正措施",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "5. 验证纠正效果",
-            "slug": "_5-验证纠正效果",
-            "link": "#_5-验证纠正效果",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "质量控制的重要性",
-        "slug": "质量控制的重要性",
-        "link": "#质量控制的重要性",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 确保产品质量",
-            "slug": "_1-确保产品质量",
-            "link": "#_1-确保产品质量",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 减少成本损失",
-            "slug": "_2-减少成本损失",
-            "link": "#_2-减少成本损失",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 提高项目成功率",
-            "slug": "_3-提高项目成功率",
-            "link": "#_3-提高项目成功率",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "关键考点",
-        "slug": "关键考点",
-        "link": "#关键考点",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "记忆口诀",
-        "slug": "记忆口诀",
-        "link": "#记忆口诀",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "典型例题",
-        "slug": "典型例题",
-        "link": "#典型例题",
-        "children": []
-      }
-    ],
-    "path": "/%E7%AC%AC12%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86/12.3%20%E8%B4%A8%E9%87%8F%E6%8E%A7%E5%88%B6.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "第12章 项目质量管理",
-    "headers": [
-      {
-        "level": 2,
-        "title": "本章概览",
-        "slug": "本章概览",
-        "link": "#本章概览",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "12.1 质量规划",
-        "slug": "_12-1-质量规划",
-        "link": "#_12-1-质量规划",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义",
-            "link": "#定义",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "主要内容",
-            "slug": "主要内容",
-            "link": "#主要内容",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "关键考点",
-            "slug": "关键考点",
-            "link": "#关键考点",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "记忆口诀",
-            "slug": "记忆口诀",
-            "link": "#记忆口诀",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "12.2 质量保证",
-        "slug": "_12-2-质量保证",
-        "link": "#_12-2-质量保证",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义-1",
-            "link": "#定义-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "主要活动",
-            "slug": "主要活动",
-            "link": "#主要活动",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "关键考点",
-            "slug": "关键考点-1",
-            "link": "#关键考点-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "记忆口诀",
-            "slug": "记忆口诀-1",
-            "link": "#记忆口诀-1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "12.3 质量控制",
-        "slug": "_12-3-质量控制",
-        "link": "#_12-3-质量控制",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义-2",
-            "link": "#定义-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "控制工具",
-            "slug": "控制工具",
-            "link": "#控制工具",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "关键考点",
-            "slug": "关键考点-2",
-            "link": "#关键考点-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "记忆口诀",
-            "slug": "记忆口诀-2",
-            "link": "#记忆口诀-2",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/%E7%AC%AC12%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "13.1 资源规划",
     "headers": [
       {
@@ -8807,6 +8807,1434 @@ export const SEARCH_INDEX = [
       }
     ],
     "path": "/%E7%AC%AC13%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "14.1 沟通规划",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "沟通规划的输入",
+        "slug": "沟通规划的输入",
+        "link": "#沟通规划的输入",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 项目章程",
+            "slug": "_1-项目章程",
+            "link": "#_1-项目章程",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 项目范围说明书",
+            "slug": "_2-项目范围说明书",
+            "link": "#_2-项目范围说明书",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 组织过程资产",
+            "slug": "_3-组织过程资产",
+            "link": "#_3-组织过程资产",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 事业环境因素",
+            "slug": "_4-事业环境因素",
+            "link": "#_4-事业环境因素",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "沟通规划的输出",
+        "slug": "沟通规划的输出",
+        "link": "#沟通规划的输出",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 沟通管理计划",
+            "slug": "_1-沟通管理计划",
+            "link": "#_1-沟通管理计划",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 沟通矩阵",
+            "slug": "_2-沟通矩阵",
+            "link": "#_2-沟通矩阵",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 项目记录模板",
+            "slug": "_3-项目记录模板",
+            "link": "#_3-项目记录模板",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "沟通管理计划的内容",
+        "slug": "沟通管理计划的内容",
+        "link": "#沟通管理计划的内容",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 沟通目标",
+            "slug": "_1-沟通目标",
+            "link": "#_1-沟通目标",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 沟通对象",
+            "slug": "_2-沟通对象",
+            "link": "#_2-沟通对象",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 沟通内容",
+            "slug": "_3-沟通内容",
+            "link": "#_3-沟通内容",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 沟通方式",
+            "slug": "_4-沟通方式",
+            "link": "#_4-沟通方式",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "5. 沟通频率",
+            "slug": "_5-沟通频率",
+            "link": "#_5-沟通频率",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "6. 沟通责任人",
+            "slug": "_6-沟通责任人",
+            "link": "#_6-沟通责任人",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "沟通规划的方法",
+        "slug": "沟通规划的方法",
+        "link": "#沟通规划的方法",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 干系人分析",
+            "slug": "_1-干系人分析",
+            "link": "#_1-干系人分析",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 沟通需求分析",
+            "slug": "_2-沟通需求分析",
+            "link": "#_2-沟通需求分析",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 沟通技术选择",
+            "slug": "_3-沟通技术选择",
+            "link": "#_3-沟通技术选择",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "沟通规划的重要性",
+        "slug": "沟通规划的重要性",
+        "link": "#沟通规划的重要性",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 确保信息畅通",
+            "slug": "_1-确保信息畅通",
+            "link": "#_1-确保信息畅通",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 提高决策效率",
+            "slug": "_2-提高决策效率",
+            "link": "#_2-提高决策效率",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 增强团队协作",
+            "slug": "_3-增强团队协作",
+            "link": "#_3-增强团队协作",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "关键考点",
+        "slug": "关键考点",
+        "link": "#关键考点",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "记忆口诀",
+        "slug": "记忆口诀",
+        "link": "#记忆口诀",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "典型例题",
+        "slug": "典型例题",
+        "link": "#典型例题",
+        "children": []
+      }
+    ],
+    "path": "/%E7%AC%AC14%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E6%B2%9F%E9%80%9A%E7%AE%A1%E7%90%86/14.1%20%E6%B2%9F%E9%80%9A%E8%A7%84%E5%88%92.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "14.2 沟通渠道",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "沟通渠道的类型",
+        "slug": "沟通渠道的类型",
+        "link": "#沟通渠道的类型",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 正式沟通渠道",
+            "slug": "_1-正式沟通渠道",
+            "link": "#_1-正式沟通渠道",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 非正式沟通渠道",
+            "slug": "_2-非正式沟通渠道",
+            "link": "#_2-非正式沟通渠道",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 单向沟通",
+            "slug": "_3-单向沟通",
+            "link": "#_3-单向沟通",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 双向沟通",
+            "slug": "_4-双向沟通",
+            "link": "#_4-双向沟通",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "沟通渠道的计算",
+        "slug": "沟通渠道的计算",
+        "link": "#沟通渠道的计算",
+        "children": [
+          {
+            "level": 3,
+            "title": "公式",
+            "slug": "公式",
+            "link": "#公式",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "示例",
+            "slug": "示例",
+            "link": "#示例",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "意义",
+            "slug": "意义",
+            "link": "#意义",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "沟通渠道的特点",
+        "slug": "沟通渠道的特点",
+        "link": "#沟通渠道的特点",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 复杂性",
+            "slug": "_1-复杂性",
+            "link": "#_1-复杂性",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 信息失真",
+            "slug": "_2-信息失真",
+            "link": "#_2-信息失真",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 沟通障碍",
+            "slug": "_3-沟通障碍",
+            "link": "#_3-沟通障碍",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "沟通渠道管理",
+        "slug": "沟通渠道管理",
+        "link": "#沟通渠道管理",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 建立沟通机制",
+            "slug": "_1-建立沟通机制",
+            "link": "#_1-建立沟通机制",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 选择合适渠道",
+            "slug": "_2-选择合适渠道",
+            "link": "#_2-选择合适渠道",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 保持信息畅通",
+            "slug": "_3-保持信息畅通",
+            "link": "#_3-保持信息畅通",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 促进双向沟通",
+            "slug": "_4-促进双向沟通",
+            "link": "#_4-促进双向沟通",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "关键考点",
+        "slug": "关键考点",
+        "link": "#关键考点",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "记忆口诀",
+        "slug": "记忆口诀",
+        "link": "#记忆口诀",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "典型例题",
+        "slug": "典型例题",
+        "link": "#典型例题",
+        "children": []
+      }
+    ],
+    "path": "/%E7%AC%AC14%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E6%B2%9F%E9%80%9A%E7%AE%A1%E7%90%86/14.2%20%E6%B2%9F%E9%80%9A%E6%B8%A0%E9%81%93.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "14.3 绩效报告",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "绩效报告的内容",
+        "slug": "绩效报告的内容",
+        "link": "#绩效报告的内容",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 进度报告",
+            "slug": "_1-进度报告",
+            "link": "#_1-进度报告",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 成本报告",
+            "slug": "_2-成本报告",
+            "link": "#_2-成本报告",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 质量报告",
+            "slug": "_3-质量报告",
+            "link": "#_3-质量报告",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 风险报告",
+            "slug": "_4-风险报告",
+            "link": "#_4-风险报告",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "5. 范围报告",
+            "slug": "_5-范围报告",
+            "link": "#_5-范围报告",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "绩效报告的类型",
+        "slug": "绩效报告的类型",
+        "link": "#绩效报告的类型",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 状态报告",
+            "slug": "_1-状态报告",
+            "link": "#_1-状态报告",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 进展报告",
+            "slug": "_2-进展报告",
+            "link": "#_2-进展报告",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 预测报告",
+            "slug": "_3-预测报告",
+            "link": "#_3-预测报告",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 例外报告",
+            "slug": "_4-例外报告",
+            "link": "#_4-例外报告",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "绩效报告的方法",
+        "slug": "绩效报告的方法",
+        "link": "#绩效报告的方法",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 挣值管理",
+            "slug": "_1-挣值管理",
+            "link": "#_1-挣值管理",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 趋势分析",
+            "slug": "_2-趋势分析",
+            "link": "#_2-趋势分析",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 偏差分析",
+            "slug": "_3-偏差分析",
+            "link": "#_3-偏差分析",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 状态审查会议",
+            "slug": "_4-状态审查会议",
+            "link": "#_4-状态审查会议",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "绩效报告的流程",
+        "slug": "绩效报告的流程",
+        "link": "#绩效报告的流程",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 收集数据",
+            "slug": "_1-收集数据",
+            "link": "#_1-收集数据",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 分析数据",
+            "slug": "_2-分析数据",
+            "link": "#_2-分析数据",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 编制报告",
+            "slug": "_3-编制报告",
+            "link": "#_3-编制报告",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 分发报告",
+            "slug": "_4-分发报告",
+            "link": "#_4-分发报告",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "5. 反馈处理",
+            "slug": "_5-反馈处理",
+            "link": "#_5-反馈处理",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "绩效报告的重要性",
+        "slug": "绩效报告的重要性",
+        "link": "#绩效报告的重要性",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 提供决策依据",
+            "slug": "_1-提供决策依据",
+            "link": "#_1-提供决策依据",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 保持信息透明",
+            "slug": "_2-保持信息透明",
+            "link": "#_2-保持信息透明",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 及时发现问题",
+            "slug": "_3-及时发现问题",
+            "link": "#_3-及时发现问题",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "关键考点",
+        "slug": "关键考点",
+        "link": "#关键考点",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "记忆口诀",
+        "slug": "记忆口诀",
+        "link": "#记忆口诀",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "典型例题",
+        "slug": "典型例题",
+        "link": "#典型例题",
+        "children": []
+      }
+    ],
+    "path": "/%E7%AC%AC14%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E6%B2%9F%E9%80%9A%E7%AE%A1%E7%90%86/14.3%20%E7%BB%A9%E6%95%88%E6%8A%A5%E5%91%8A.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "第14章 项目沟通管理",
+    "headers": [
+      {
+        "level": 2,
+        "title": "本章概览",
+        "slug": "本章概览",
+        "link": "#本章概览",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "14.1 沟通规划",
+        "slug": "_14-1-沟通规划",
+        "link": "#_14-1-沟通规划",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义",
+            "link": "#定义",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "规划内容",
+            "slug": "规划内容",
+            "link": "#规划内容",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "关键考点",
+            "slug": "关键考点",
+            "link": "#关键考点",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "记忆口诀",
+            "slug": "记忆口诀",
+            "link": "#记忆口诀",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "14.2 沟通渠道",
+        "slug": "_14-2-沟通渠道",
+        "link": "#_14-2-沟通渠道",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义-1",
+            "link": "#定义-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "渠道计算",
+            "slug": "渠道计算",
+            "link": "#渠道计算",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "关键考点",
+            "slug": "关键考点-1",
+            "link": "#关键考点-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "记忆口诀",
+            "slug": "记忆口诀-1",
+            "link": "#记忆口诀-1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "14.3 绩效报告",
+        "slug": "_14-3-绩效报告",
+        "link": "#_14-3-绩效报告",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义-2",
+            "link": "#定义-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "报告内容",
+            "slug": "报告内容",
+            "link": "#报告内容",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "关键考点",
+            "slug": "关键考点-2",
+            "link": "#关键考点-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "记忆口诀",
+            "slug": "记忆口诀-2",
+            "link": "#记忆口诀-2",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/%E7%AC%AC14%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E6%B2%9F%E9%80%9A%E7%AE%A1%E7%90%86/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "15.1 风险规划",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "风险规划的输入",
+        "slug": "风险规划的输入",
+        "link": "#风险规划的输入",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 项目章程",
+            "slug": "_1-项目章程",
+            "link": "#_1-项目章程",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 项目范围说明书",
+            "slug": "_2-项目范围说明书",
+            "link": "#_2-项目范围说明书",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 组织过程资产",
+            "slug": "_3-组织过程资产",
+            "link": "#_3-组织过程资产",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 事业环境因素",
+            "slug": "_4-事业环境因素",
+            "link": "#_4-事业环境因素",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "风险规划的输出",
+        "slug": "风险规划的输出",
+        "link": "#风险规划的输出",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 风险管理计划",
+            "slug": "_1-风险管理计划",
+            "link": "#_1-风险管理计划",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 风险登记册模板",
+            "slug": "_2-风险登记册模板",
+            "link": "#_2-风险登记册模板",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "风险管理计划的内容",
+        "slug": "风险管理计划的内容",
+        "link": "#风险管理计划的内容",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 风险管理策略",
+            "slug": "_1-风险管理策略",
+            "link": "#_1-风险管理策略",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 风险分类",
+            "slug": "_2-风险分类",
+            "link": "#_2-风险分类",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 风险概率和影响定义",
+            "slug": "_3-风险概率和影响定义",
+            "link": "#_3-风险概率和影响定义",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 风险应对计划",
+            "slug": "_4-风险应对计划",
+            "link": "#_4-风险应对计划",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "5. 风险监控计划",
+            "slug": "_5-风险监控计划",
+            "link": "#_5-风险监控计划",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "风险规划的方法",
+        "slug": "风险规划的方法",
+        "link": "#风险规划的方法",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 专家判断",
+            "slug": "_1-专家判断",
+            "link": "#_1-专家判断",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 风险研讨会",
+            "slug": "_2-风险研讨会",
+            "link": "#_2-风险研讨会",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 历史数据分析",
+            "slug": "_3-历史数据分析",
+            "link": "#_3-历史数据分析",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "风险规划的重要性",
+        "slug": "风险规划的重要性",
+        "link": "#风险规划的重要性",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 提前准备",
+            "slug": "_1-提前准备",
+            "link": "#_1-提前准备",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 提高可控性",
+            "slug": "_2-提高可控性",
+            "link": "#_2-提高可控性",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 降低成本",
+            "slug": "_3-降低成本",
+            "link": "#_3-降低成本",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "关键考点",
+        "slug": "关键考点",
+        "link": "#关键考点",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "记忆口诀",
+        "slug": "记忆口诀",
+        "link": "#记忆口诀",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "典型例题",
+        "slug": "典型例题",
+        "link": "#典型例题",
+        "children": []
+      }
+    ],
+    "path": "/%E7%AC%AC15%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/15.1%20%E9%A3%8E%E9%99%A9%E8%A7%84%E5%88%92.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "15.2 风险识别",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "风险识别的输入",
+        "slug": "风险识别的输入",
+        "link": "#风险识别的输入",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 项目章程",
+            "slug": "_1-项目章程",
+            "link": "#_1-项目章程",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 项目范围说明书",
+            "slug": "_2-项目范围说明书",
+            "link": "#_2-项目范围说明书",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 风险管理计划",
+            "slug": "_3-风险管理计划",
+            "link": "#_3-风险管理计划",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 组织过程资产",
+            "slug": "_4-组织过程资产",
+            "link": "#_4-组织过程资产",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "风险识别的输出",
+        "slug": "风险识别的输出",
+        "link": "#风险识别的输出",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 风险登记册",
+            "slug": "_1-风险登记册",
+            "link": "#_1-风险登记册",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 风险类别清单",
+            "slug": "_2-风险类别清单",
+            "link": "#_2-风险类别清单",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "风险识别方法",
+        "slug": "风险识别方法",
+        "link": "#风险识别方法",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 头脑风暴",
+            "slug": "_1-头脑风暴",
+            "link": "#_1-头脑风暴",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 德尔菲法",
+            "slug": "_2-德尔菲法",
+            "link": "#_2-德尔菲法",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 检查表",
+            "slug": "_3-检查表",
+            "link": "#_3-检查表",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. SWOT分析",
+            "slug": "_4-swot分析",
+            "link": "#_4-swot分析",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "5. 因果图",
+            "slug": "_5-因果图",
+            "link": "#_5-因果图",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "风险分类",
+        "slug": "风险分类",
+        "link": "#风险分类",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 技术风险",
+            "slug": "_1-技术风险",
+            "link": "#_1-技术风险",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 管理风险",
+            "slug": "_2-管理风险",
+            "link": "#_2-管理风险",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 市场风险",
+            "slug": "_3-市场风险",
+            "link": "#_3-市场风险",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 财务风险",
+            "slug": "_4-财务风险",
+            "link": "#_4-财务风险",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "5. 法律风险",
+            "slug": "_5-法律风险",
+            "link": "#_5-法律风险",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "风险识别的注意事项",
+        "slug": "风险识别的注意事项",
+        "link": "#风险识别的注意事项",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 全面性",
+            "slug": "_1-全面性",
+            "link": "#_1-全面性",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 系统性",
+            "slug": "_2-系统性",
+            "link": "#_2-系统性",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 动态性",
+            "slug": "_3-动态性",
+            "link": "#_3-动态性",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "关键考点",
+        "slug": "关键考点",
+        "link": "#关键考点",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "记忆口诀",
+        "slug": "记忆口诀",
+        "link": "#记忆口诀",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "典型例题",
+        "slug": "典型例题",
+        "link": "#典型例题",
+        "children": []
+      }
+    ],
+    "path": "/%E7%AC%AC15%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/15.2%20%E9%A3%8E%E9%99%A9%E8%AF%86%E5%88%AB.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "15.3 风险应对",
+    "headers": [
+      {
+        "level": 2,
+        "title": "定义",
+        "slug": "定义",
+        "link": "#定义",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "风险应对策略",
+        "slug": "风险应对策略",
+        "link": "#风险应对策略",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 风险规避",
+            "slug": "_1-风险规避",
+            "link": "#_1-风险规避",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 风险转移",
+            "slug": "_2-风险转移",
+            "link": "#_2-风险转移",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 风险减轻",
+            "slug": "_3-风险减轻",
+            "link": "#_3-风险减轻",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 风险接受",
+            "slug": "_4-风险接受",
+            "link": "#_4-风险接受",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "风险应对计划的内容",
+        "slug": "风险应对计划的内容",
+        "link": "#风险应对计划的内容",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 风险描述",
+            "slug": "_1-风险描述",
+            "link": "#_1-风险描述",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 应对策略",
+            "slug": "_2-应对策略",
+            "link": "#_2-应对策略",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 应对措施",
+            "slug": "_3-应对措施",
+            "link": "#_3-应对措施",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 应急计划",
+            "slug": "_4-应急计划",
+            "link": "#_4-应急计划",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "风险应对的步骤",
+        "slug": "风险应对的步骤",
+        "link": "#风险应对的步骤",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 评估风险",
+            "slug": "_1-评估风险",
+            "link": "#_1-评估风险",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 选择策略",
+            "slug": "_2-选择策略",
+            "link": "#_2-选择策略",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 制定计划",
+            "slug": "_3-制定计划",
+            "link": "#_3-制定计划",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "4. 实施措施",
+            "slug": "_4-实施措施",
+            "link": "#_4-实施措施",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "5. 监控风险",
+            "slug": "_5-监控风险",
+            "link": "#_5-监控风险",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "风险应对的注意事项",
+        "slug": "风险应对的注意事项",
+        "link": "#风险应对的注意事项",
+        "children": [
+          {
+            "level": 3,
+            "title": "1. 成本效益分析",
+            "slug": "_1-成本效益分析",
+            "link": "#_1-成本效益分析",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2. 灵活性",
+            "slug": "_2-灵活性",
+            "link": "#_2-灵活性",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "3. 责任明确",
+            "slug": "_3-责任明确",
+            "link": "#_3-责任明确",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "关键考点",
+        "slug": "关键考点",
+        "link": "#关键考点",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "记忆口诀",
+        "slug": "记忆口诀",
+        "link": "#记忆口诀",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "典型例题",
+        "slug": "典型例题",
+        "link": "#典型例题",
+        "children": []
+      }
+    ],
+    "path": "/%E7%AC%AC15%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/15.3%20%E9%A3%8E%E9%99%A9%E5%BA%94%E5%AF%B9.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "第15章 项目风险管理",
+    "headers": [
+      {
+        "level": 2,
+        "title": "本章概览",
+        "slug": "本章概览",
+        "link": "#本章概览",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "15.1 风险规划",
+        "slug": "_15-1-风险规划",
+        "link": "#_15-1-风险规划",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义",
+            "link": "#定义",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "规划内容",
+            "slug": "规划内容",
+            "link": "#规划内容",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "关键考点",
+            "slug": "关键考点",
+            "link": "#关键考点",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "记忆口诀",
+            "slug": "记忆口诀",
+            "link": "#记忆口诀",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "15.2 风险识别",
+        "slug": "_15-2-风险识别",
+        "link": "#_15-2-风险识别",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义-1",
+            "link": "#定义-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "识别方法",
+            "slug": "识别方法",
+            "link": "#识别方法",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "关键考点",
+            "slug": "关键考点-1",
+            "link": "#关键考点-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "记忆口诀",
+            "slug": "记忆口诀-1",
+            "link": "#记忆口诀-1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "15.3 风险应对",
+        "slug": "_15-3-风险应对",
+        "link": "#_15-3-风险应对",
+        "children": [
+          {
+            "level": 3,
+            "title": "定义",
+            "slug": "定义-2",
+            "link": "#定义-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "应对策略",
+            "slug": "应对策略",
+            "link": "#应对策略",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "关键考点",
+            "slug": "关键考点-2",
+            "link": "#关键考点-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "记忆口诀",
+            "slug": "记忆口诀-2",
+            "link": "#记忆口诀-2",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/%E7%AC%AC15%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -15207,1434 +16635,6 @@ export const SEARCH_INDEX = [
       }
     ],
     "path": "/%E7%AC%AC24%E7%AB%A0%20%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84%E4%B8%8E%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "15.1 风险规划",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "风险规划的输入",
-        "slug": "风险规划的输入",
-        "link": "#风险规划的输入",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 项目章程",
-            "slug": "_1-项目章程",
-            "link": "#_1-项目章程",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 项目范围说明书",
-            "slug": "_2-项目范围说明书",
-            "link": "#_2-项目范围说明书",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 组织过程资产",
-            "slug": "_3-组织过程资产",
-            "link": "#_3-组织过程资产",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 事业环境因素",
-            "slug": "_4-事业环境因素",
-            "link": "#_4-事业环境因素",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "风险规划的输出",
-        "slug": "风险规划的输出",
-        "link": "#风险规划的输出",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 风险管理计划",
-            "slug": "_1-风险管理计划",
-            "link": "#_1-风险管理计划",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 风险登记册模板",
-            "slug": "_2-风险登记册模板",
-            "link": "#_2-风险登记册模板",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "风险管理计划的内容",
-        "slug": "风险管理计划的内容",
-        "link": "#风险管理计划的内容",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 风险管理策略",
-            "slug": "_1-风险管理策略",
-            "link": "#_1-风险管理策略",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 风险分类",
-            "slug": "_2-风险分类",
-            "link": "#_2-风险分类",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 风险概率和影响定义",
-            "slug": "_3-风险概率和影响定义",
-            "link": "#_3-风险概率和影响定义",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 风险应对计划",
-            "slug": "_4-风险应对计划",
-            "link": "#_4-风险应对计划",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "5. 风险监控计划",
-            "slug": "_5-风险监控计划",
-            "link": "#_5-风险监控计划",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "风险规划的方法",
-        "slug": "风险规划的方法",
-        "link": "#风险规划的方法",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 专家判断",
-            "slug": "_1-专家判断",
-            "link": "#_1-专家判断",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 风险研讨会",
-            "slug": "_2-风险研讨会",
-            "link": "#_2-风险研讨会",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 历史数据分析",
-            "slug": "_3-历史数据分析",
-            "link": "#_3-历史数据分析",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "风险规划的重要性",
-        "slug": "风险规划的重要性",
-        "link": "#风险规划的重要性",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 提前准备",
-            "slug": "_1-提前准备",
-            "link": "#_1-提前准备",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 提高可控性",
-            "slug": "_2-提高可控性",
-            "link": "#_2-提高可控性",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 降低成本",
-            "slug": "_3-降低成本",
-            "link": "#_3-降低成本",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "关键考点",
-        "slug": "关键考点",
-        "link": "#关键考点",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "记忆口诀",
-        "slug": "记忆口诀",
-        "link": "#记忆口诀",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "典型例题",
-        "slug": "典型例题",
-        "link": "#典型例题",
-        "children": []
-      }
-    ],
-    "path": "/%E7%AC%AC15%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/15.1%20%E9%A3%8E%E9%99%A9%E8%A7%84%E5%88%92.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "15.2 风险识别",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "风险识别的输入",
-        "slug": "风险识别的输入",
-        "link": "#风险识别的输入",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 项目章程",
-            "slug": "_1-项目章程",
-            "link": "#_1-项目章程",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 项目范围说明书",
-            "slug": "_2-项目范围说明书",
-            "link": "#_2-项目范围说明书",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 风险管理计划",
-            "slug": "_3-风险管理计划",
-            "link": "#_3-风险管理计划",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 组织过程资产",
-            "slug": "_4-组织过程资产",
-            "link": "#_4-组织过程资产",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "风险识别的输出",
-        "slug": "风险识别的输出",
-        "link": "#风险识别的输出",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 风险登记册",
-            "slug": "_1-风险登记册",
-            "link": "#_1-风险登记册",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 风险类别清单",
-            "slug": "_2-风险类别清单",
-            "link": "#_2-风险类别清单",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "风险识别方法",
-        "slug": "风险识别方法",
-        "link": "#风险识别方法",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 头脑风暴",
-            "slug": "_1-头脑风暴",
-            "link": "#_1-头脑风暴",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 德尔菲法",
-            "slug": "_2-德尔菲法",
-            "link": "#_2-德尔菲法",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 检查表",
-            "slug": "_3-检查表",
-            "link": "#_3-检查表",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. SWOT分析",
-            "slug": "_4-swot分析",
-            "link": "#_4-swot分析",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "5. 因果图",
-            "slug": "_5-因果图",
-            "link": "#_5-因果图",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "风险分类",
-        "slug": "风险分类",
-        "link": "#风险分类",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 技术风险",
-            "slug": "_1-技术风险",
-            "link": "#_1-技术风险",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 管理风险",
-            "slug": "_2-管理风险",
-            "link": "#_2-管理风险",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 市场风险",
-            "slug": "_3-市场风险",
-            "link": "#_3-市场风险",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 财务风险",
-            "slug": "_4-财务风险",
-            "link": "#_4-财务风险",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "5. 法律风险",
-            "slug": "_5-法律风险",
-            "link": "#_5-法律风险",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "风险识别的注意事项",
-        "slug": "风险识别的注意事项",
-        "link": "#风险识别的注意事项",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 全面性",
-            "slug": "_1-全面性",
-            "link": "#_1-全面性",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 系统性",
-            "slug": "_2-系统性",
-            "link": "#_2-系统性",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 动态性",
-            "slug": "_3-动态性",
-            "link": "#_3-动态性",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "关键考点",
-        "slug": "关键考点",
-        "link": "#关键考点",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "记忆口诀",
-        "slug": "记忆口诀",
-        "link": "#记忆口诀",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "典型例题",
-        "slug": "典型例题",
-        "link": "#典型例题",
-        "children": []
-      }
-    ],
-    "path": "/%E7%AC%AC15%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/15.2%20%E9%A3%8E%E9%99%A9%E8%AF%86%E5%88%AB.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "15.3 风险应对",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "风险应对策略",
-        "slug": "风险应对策略",
-        "link": "#风险应对策略",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 风险规避",
-            "slug": "_1-风险规避",
-            "link": "#_1-风险规避",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 风险转移",
-            "slug": "_2-风险转移",
-            "link": "#_2-风险转移",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 风险减轻",
-            "slug": "_3-风险减轻",
-            "link": "#_3-风险减轻",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 风险接受",
-            "slug": "_4-风险接受",
-            "link": "#_4-风险接受",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "风险应对计划的内容",
-        "slug": "风险应对计划的内容",
-        "link": "#风险应对计划的内容",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 风险描述",
-            "slug": "_1-风险描述",
-            "link": "#_1-风险描述",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 应对策略",
-            "slug": "_2-应对策略",
-            "link": "#_2-应对策略",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 应对措施",
-            "slug": "_3-应对措施",
-            "link": "#_3-应对措施",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 应急计划",
-            "slug": "_4-应急计划",
-            "link": "#_4-应急计划",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "风险应对的步骤",
-        "slug": "风险应对的步骤",
-        "link": "#风险应对的步骤",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 评估风险",
-            "slug": "_1-评估风险",
-            "link": "#_1-评估风险",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 选择策略",
-            "slug": "_2-选择策略",
-            "link": "#_2-选择策略",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 制定计划",
-            "slug": "_3-制定计划",
-            "link": "#_3-制定计划",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 实施措施",
-            "slug": "_4-实施措施",
-            "link": "#_4-实施措施",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "5. 监控风险",
-            "slug": "_5-监控风险",
-            "link": "#_5-监控风险",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "风险应对的注意事项",
-        "slug": "风险应对的注意事项",
-        "link": "#风险应对的注意事项",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 成本效益分析",
-            "slug": "_1-成本效益分析",
-            "link": "#_1-成本效益分析",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 灵活性",
-            "slug": "_2-灵活性",
-            "link": "#_2-灵活性",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 责任明确",
-            "slug": "_3-责任明确",
-            "link": "#_3-责任明确",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "关键考点",
-        "slug": "关键考点",
-        "link": "#关键考点",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "记忆口诀",
-        "slug": "记忆口诀",
-        "link": "#记忆口诀",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "典型例题",
-        "slug": "典型例题",
-        "link": "#典型例题",
-        "children": []
-      }
-    ],
-    "path": "/%E7%AC%AC15%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/15.3%20%E9%A3%8E%E9%99%A9%E5%BA%94%E5%AF%B9.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "第15章 项目风险管理",
-    "headers": [
-      {
-        "level": 2,
-        "title": "本章概览",
-        "slug": "本章概览",
-        "link": "#本章概览",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "15.1 风险规划",
-        "slug": "_15-1-风险规划",
-        "link": "#_15-1-风险规划",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义",
-            "link": "#定义",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "规划内容",
-            "slug": "规划内容",
-            "link": "#规划内容",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "关键考点",
-            "slug": "关键考点",
-            "link": "#关键考点",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "记忆口诀",
-            "slug": "记忆口诀",
-            "link": "#记忆口诀",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "15.2 风险识别",
-        "slug": "_15-2-风险识别",
-        "link": "#_15-2-风险识别",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义-1",
-            "link": "#定义-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "识别方法",
-            "slug": "识别方法",
-            "link": "#识别方法",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "关键考点",
-            "slug": "关键考点-1",
-            "link": "#关键考点-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "记忆口诀",
-            "slug": "记忆口诀-1",
-            "link": "#记忆口诀-1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "15.3 风险应对",
-        "slug": "_15-3-风险应对",
-        "link": "#_15-3-风险应对",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义-2",
-            "link": "#定义-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "应对策略",
-            "slug": "应对策略",
-            "link": "#应对策略",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "关键考点",
-            "slug": "关键考点-2",
-            "link": "#关键考点-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "记忆口诀",
-            "slug": "记忆口诀-2",
-            "link": "#记忆口诀-2",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/%E7%AC%AC15%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "14.1 沟通规划",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "沟通规划的输入",
-        "slug": "沟通规划的输入",
-        "link": "#沟通规划的输入",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 项目章程",
-            "slug": "_1-项目章程",
-            "link": "#_1-项目章程",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 项目范围说明书",
-            "slug": "_2-项目范围说明书",
-            "link": "#_2-项目范围说明书",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 组织过程资产",
-            "slug": "_3-组织过程资产",
-            "link": "#_3-组织过程资产",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 事业环境因素",
-            "slug": "_4-事业环境因素",
-            "link": "#_4-事业环境因素",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "沟通规划的输出",
-        "slug": "沟通规划的输出",
-        "link": "#沟通规划的输出",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 沟通管理计划",
-            "slug": "_1-沟通管理计划",
-            "link": "#_1-沟通管理计划",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 沟通矩阵",
-            "slug": "_2-沟通矩阵",
-            "link": "#_2-沟通矩阵",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 项目记录模板",
-            "slug": "_3-项目记录模板",
-            "link": "#_3-项目记录模板",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "沟通管理计划的内容",
-        "slug": "沟通管理计划的内容",
-        "link": "#沟通管理计划的内容",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 沟通目标",
-            "slug": "_1-沟通目标",
-            "link": "#_1-沟通目标",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 沟通对象",
-            "slug": "_2-沟通对象",
-            "link": "#_2-沟通对象",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 沟通内容",
-            "slug": "_3-沟通内容",
-            "link": "#_3-沟通内容",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 沟通方式",
-            "slug": "_4-沟通方式",
-            "link": "#_4-沟通方式",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "5. 沟通频率",
-            "slug": "_5-沟通频率",
-            "link": "#_5-沟通频率",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "6. 沟通责任人",
-            "slug": "_6-沟通责任人",
-            "link": "#_6-沟通责任人",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "沟通规划的方法",
-        "slug": "沟通规划的方法",
-        "link": "#沟通规划的方法",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 干系人分析",
-            "slug": "_1-干系人分析",
-            "link": "#_1-干系人分析",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 沟通需求分析",
-            "slug": "_2-沟通需求分析",
-            "link": "#_2-沟通需求分析",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 沟通技术选择",
-            "slug": "_3-沟通技术选择",
-            "link": "#_3-沟通技术选择",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "沟通规划的重要性",
-        "slug": "沟通规划的重要性",
-        "link": "#沟通规划的重要性",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 确保信息畅通",
-            "slug": "_1-确保信息畅通",
-            "link": "#_1-确保信息畅通",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 提高决策效率",
-            "slug": "_2-提高决策效率",
-            "link": "#_2-提高决策效率",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 增强团队协作",
-            "slug": "_3-增强团队协作",
-            "link": "#_3-增强团队协作",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "关键考点",
-        "slug": "关键考点",
-        "link": "#关键考点",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "记忆口诀",
-        "slug": "记忆口诀",
-        "link": "#记忆口诀",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "典型例题",
-        "slug": "典型例题",
-        "link": "#典型例题",
-        "children": []
-      }
-    ],
-    "path": "/%E7%AC%AC14%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E6%B2%9F%E9%80%9A%E7%AE%A1%E7%90%86/14.1%20%E6%B2%9F%E9%80%9A%E8%A7%84%E5%88%92.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "14.2 沟通渠道",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "沟通渠道的类型",
-        "slug": "沟通渠道的类型",
-        "link": "#沟通渠道的类型",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 正式沟通渠道",
-            "slug": "_1-正式沟通渠道",
-            "link": "#_1-正式沟通渠道",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 非正式沟通渠道",
-            "slug": "_2-非正式沟通渠道",
-            "link": "#_2-非正式沟通渠道",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 单向沟通",
-            "slug": "_3-单向沟通",
-            "link": "#_3-单向沟通",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 双向沟通",
-            "slug": "_4-双向沟通",
-            "link": "#_4-双向沟通",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "沟通渠道的计算",
-        "slug": "沟通渠道的计算",
-        "link": "#沟通渠道的计算",
-        "children": [
-          {
-            "level": 3,
-            "title": "公式",
-            "slug": "公式",
-            "link": "#公式",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "示例",
-            "slug": "示例",
-            "link": "#示例",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "意义",
-            "slug": "意义",
-            "link": "#意义",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "沟通渠道的特点",
-        "slug": "沟通渠道的特点",
-        "link": "#沟通渠道的特点",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 复杂性",
-            "slug": "_1-复杂性",
-            "link": "#_1-复杂性",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 信息失真",
-            "slug": "_2-信息失真",
-            "link": "#_2-信息失真",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 沟通障碍",
-            "slug": "_3-沟通障碍",
-            "link": "#_3-沟通障碍",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "沟通渠道管理",
-        "slug": "沟通渠道管理",
-        "link": "#沟通渠道管理",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 建立沟通机制",
-            "slug": "_1-建立沟通机制",
-            "link": "#_1-建立沟通机制",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 选择合适渠道",
-            "slug": "_2-选择合适渠道",
-            "link": "#_2-选择合适渠道",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 保持信息畅通",
-            "slug": "_3-保持信息畅通",
-            "link": "#_3-保持信息畅通",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 促进双向沟通",
-            "slug": "_4-促进双向沟通",
-            "link": "#_4-促进双向沟通",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "关键考点",
-        "slug": "关键考点",
-        "link": "#关键考点",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "记忆口诀",
-        "slug": "记忆口诀",
-        "link": "#记忆口诀",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "典型例题",
-        "slug": "典型例题",
-        "link": "#典型例题",
-        "children": []
-      }
-    ],
-    "path": "/%E7%AC%AC14%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E6%B2%9F%E9%80%9A%E7%AE%A1%E7%90%86/14.2%20%E6%B2%9F%E9%80%9A%E6%B8%A0%E9%81%93.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "14.3 绩效报告",
-    "headers": [
-      {
-        "level": 2,
-        "title": "定义",
-        "slug": "定义",
-        "link": "#定义",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "绩效报告的内容",
-        "slug": "绩效报告的内容",
-        "link": "#绩效报告的内容",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 进度报告",
-            "slug": "_1-进度报告",
-            "link": "#_1-进度报告",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 成本报告",
-            "slug": "_2-成本报告",
-            "link": "#_2-成本报告",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 质量报告",
-            "slug": "_3-质量报告",
-            "link": "#_3-质量报告",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 风险报告",
-            "slug": "_4-风险报告",
-            "link": "#_4-风险报告",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "5. 范围报告",
-            "slug": "_5-范围报告",
-            "link": "#_5-范围报告",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "绩效报告的类型",
-        "slug": "绩效报告的类型",
-        "link": "#绩效报告的类型",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 状态报告",
-            "slug": "_1-状态报告",
-            "link": "#_1-状态报告",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 进展报告",
-            "slug": "_2-进展报告",
-            "link": "#_2-进展报告",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 预测报告",
-            "slug": "_3-预测报告",
-            "link": "#_3-预测报告",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 例外报告",
-            "slug": "_4-例外报告",
-            "link": "#_4-例外报告",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "绩效报告的方法",
-        "slug": "绩效报告的方法",
-        "link": "#绩效报告的方法",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 挣值管理",
-            "slug": "_1-挣值管理",
-            "link": "#_1-挣值管理",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 趋势分析",
-            "slug": "_2-趋势分析",
-            "link": "#_2-趋势分析",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 偏差分析",
-            "slug": "_3-偏差分析",
-            "link": "#_3-偏差分析",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 状态审查会议",
-            "slug": "_4-状态审查会议",
-            "link": "#_4-状态审查会议",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "绩效报告的流程",
-        "slug": "绩效报告的流程",
-        "link": "#绩效报告的流程",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 收集数据",
-            "slug": "_1-收集数据",
-            "link": "#_1-收集数据",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 分析数据",
-            "slug": "_2-分析数据",
-            "link": "#_2-分析数据",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 编制报告",
-            "slug": "_3-编制报告",
-            "link": "#_3-编制报告",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "4. 分发报告",
-            "slug": "_4-分发报告",
-            "link": "#_4-分发报告",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "5. 反馈处理",
-            "slug": "_5-反馈处理",
-            "link": "#_5-反馈处理",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "绩效报告的重要性",
-        "slug": "绩效报告的重要性",
-        "link": "#绩效报告的重要性",
-        "children": [
-          {
-            "level": 3,
-            "title": "1. 提供决策依据",
-            "slug": "_1-提供决策依据",
-            "link": "#_1-提供决策依据",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2. 保持信息透明",
-            "slug": "_2-保持信息透明",
-            "link": "#_2-保持信息透明",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "3. 及时发现问题",
-            "slug": "_3-及时发现问题",
-            "link": "#_3-及时发现问题",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "关键考点",
-        "slug": "关键考点",
-        "link": "#关键考点",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "记忆口诀",
-        "slug": "记忆口诀",
-        "link": "#记忆口诀",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "典型例题",
-        "slug": "典型例题",
-        "link": "#典型例题",
-        "children": []
-      }
-    ],
-    "path": "/%E7%AC%AC14%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E6%B2%9F%E9%80%9A%E7%AE%A1%E7%90%86/14.3%20%E7%BB%A9%E6%95%88%E6%8A%A5%E5%91%8A.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "第14章 项目沟通管理",
-    "headers": [
-      {
-        "level": 2,
-        "title": "本章概览",
-        "slug": "本章概览",
-        "link": "#本章概览",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "14.1 沟通规划",
-        "slug": "_14-1-沟通规划",
-        "link": "#_14-1-沟通规划",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义",
-            "link": "#定义",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "规划内容",
-            "slug": "规划内容",
-            "link": "#规划内容",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "关键考点",
-            "slug": "关键考点",
-            "link": "#关键考点",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "记忆口诀",
-            "slug": "记忆口诀",
-            "link": "#记忆口诀",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "14.2 沟通渠道",
-        "slug": "_14-2-沟通渠道",
-        "link": "#_14-2-沟通渠道",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义-1",
-            "link": "#定义-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "渠道计算",
-            "slug": "渠道计算",
-            "link": "#渠道计算",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "关键考点",
-            "slug": "关键考点-1",
-            "link": "#关键考点-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "记忆口诀",
-            "slug": "记忆口诀-1",
-            "link": "#记忆口诀-1",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "14.3 绩效报告",
-        "slug": "_14-3-绩效报告",
-        "link": "#_14-3-绩效报告",
-        "children": [
-          {
-            "level": 3,
-            "title": "定义",
-            "slug": "定义-2",
-            "link": "#定义-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "报告内容",
-            "slug": "报告内容",
-            "link": "#报告内容",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "关键考点",
-            "slug": "关键考点-2",
-            "link": "#关键考点-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "记忆口诀",
-            "slug": "记忆口诀-2",
-            "link": "#记忆口诀-2",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/%E7%AC%AC14%E7%AB%A0%20%E9%A1%B9%E7%9B%AE%E6%B2%9F%E9%80%9A%E7%AE%A1%E7%90%86/",
     "pathLocale": "/",
     "extraFields": []
   },
